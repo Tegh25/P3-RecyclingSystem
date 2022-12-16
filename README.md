@@ -1,7 +1,7 @@
 # P3-RecyclingSystem
 Two robot recycling system algorithm for our third engineering design project, coded in python on a raspberry pi 4 and simulated using Quanser Interactive Labs. More info about this project can be found <a href="https://atelieyt.notion.site/Revenge-of-the-Recycling-System-ba956616b3864fad92bbb51508aa9e8f" target="_blank">here</a>.
 
-In this repo you can find the code itself, our design project report, and a research summary on inductive proximity sensors.
+In this repo you can find the code itself, our design project report, and a research summary on inductive proximity sensors. The software component of our project recieved high praise and was selected to be featured in our class's end of year project showcase.
 
 ## How it Works
 
